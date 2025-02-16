@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on Innovitiers Consulting</title><link>https://githubuser.github.io/pages/</link><description>Recent content in Pages on Innovitiers Consulting</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Sun, 16 Feb 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://githubuser.github.io/pages/index.xml" rel="self" type="application/rss+xml"/><item><title>DevOps Works</title><link>https://githubuser.github.io/pages/devops-works/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://githubuser.github.io/pages/devops-works/</guid><description>&lt;p>SAFE DevOps Practitioner&lt;/p>
+&lt;p>Docker&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://githubuser.github.io/pages/docker-commands/">Docker Commands&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>&lt;a href="https://githubuser.github.io/pages/networks/">Networks&lt;/a>&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Kubernetes&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>[[Kubernetes Basics]]&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>[[K8S Commands]]&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Openshift&lt;/p>
+&lt;p>Linux&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>&lt;a href="https://githubuser.github.io/pages/vim-editor/">VIM Editor&lt;/a>&lt;/p>
+&lt;/li>
+&lt;li>&lt;/li>
+&lt;/ul></description></item><item><title>Docker Commands</title><link>https://githubuser.github.io/pages/docker-commands/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://githubuser.github.io/pages/docker-commands/</guid><description>&lt;p>command 1&lt;/p></description></item><item><title>Networks</title><link>https://githubuser.github.io/pages/networks/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://githubuser.github.io/pages/networks/</guid><description>&lt;p>Docker networks&lt;/p></description></item><item><title>VIM Editor</title><link>https://githubuser.github.io/pages/vim-editor/</link><pubDate>Sun, 16 Feb 2025 00:00:00 +0000</pubDate><guid>https://githubuser.github.io/pages/vim-editor/</guid><description>&lt;p>Vim, derived from vi, distinguishes itself through its modal editing paradigm. Distinct modes, such as Normal, Insert, Visual, and Command, each govern specific actions. Understanding these modes, their respective functions, and how they impact keystroke behaviour is fundamental to mastering Vim&amp;rsquo;s efficiency and productivity. Generally used modes in VIM are :&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Normal mode
+Normal&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Insert mode
+Insert&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Visual&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Command-line&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Replace&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Binary&lt;/p>
+&lt;/li>
+&lt;li>
+&lt;p>Org&lt;/p>
+&lt;/li>
+&lt;/ul>
+&lt;p>Normal mode&lt;/p>
+&lt;ul>
+&lt;li>
+&lt;p>Purpose : This is the default mode when you first open Vim. It&amp;rsquo;s designed for navigation, editing commands, and general control of the editor. Pressing &lt;!-- raw HTML omitted --> key twice lets editor to enter in normal mode.&lt;/p></description></item><item><title>random page form logseq</title><link>https://githubuser.github.io/pages/random-page-from-logseq/</link><pubDate>Wed, 20 Apr 2022 00:00:00 +0000</pubDate><guid>https://githubuser.github.io/pages/random-page-from-logseq/</guid><description>&lt;h2 id="title-1">Title 1&lt;/h2>
+&lt;p>foooo&lt;/p>
+&lt;h2 id="title-2">Title 2&lt;/h2>
+&lt;p>foooo&lt;/p>
+&lt;p>&lt;img src="https://githubuser.github.io/assets/test.png" alt="test">&lt;/p>
+&lt;p>#adding new line in random :page&lt;/p></description></item></channel></rss>
