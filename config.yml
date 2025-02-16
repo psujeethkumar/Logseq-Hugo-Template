@@ -36,11 +36,11 @@ params:
 outputs:
   home:
     - HTML
-    # - RSS
+    - RSS
     - JSON # is necessary
   section:
     - HTML
-    # - RSS
+    - RSS
     - JSON
 
 menu:
