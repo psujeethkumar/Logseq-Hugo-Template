@@ -1,27 +1,27 @@
 baseURL: https://githubuser.github.io
 languageCode: en-us
-title: Linus Torvalds
+title: Innovitiers Consulting
 theme: "PaperMod"
 
 params:
   homeInfoParams:
-    Title: Sup bruh 😎
-    Content: This is something shows in your homepage.
+    Title: Innovitiers Consulting
+    Content: Sujeeth  Pakala
 
   socialIcons: # optional
     - name: "github"
-      url: "https://github.com/XXX"
+      url: "https://github.com/psujeethkumar"
     # - name: "youtube"
     #   url: "https://www.youtube.com/channel/XXX"
-    - name: "twitter"
-      url: "https://twitter.com/XXX"
+    # - name: "twitter"
+    #   url: "https://twitter.com/XXX"
     # - name: "kofi"
     #   url: "https://buymeacoffee.com/XXX"
     # - name: "rss"
     #   url: "https://XXX.github.io/index.xml"
   ShowReadingTime: true
-  author: "Linus Torvalds"
-  contact: "LinusT@example.com"
+  author: "Sujeeth Pakala"
+  contact: "sujeethpakala@innovitiers.com"
   feedlinks: true
   mobileMenu: true
 
